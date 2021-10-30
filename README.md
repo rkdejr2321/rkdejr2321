@@ -10,7 +10,6 @@
 <p align="center">
   <h3 align="center>취미:⚽💻🛫</h3>
 </p>
-<br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
