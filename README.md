@@ -12,5 +12,5 @@
 
 <h3 align="center"><b>📌SNS </b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-Instargram-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Instargram-3DDC84?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 
