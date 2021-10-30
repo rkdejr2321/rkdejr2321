@@ -7,6 +7,9 @@
 <p align="center">
   <h3 align="center">🏫 가천대학교 3학년(휴)</h3>
 </p>
+<p align="center">
+  <h3 align="center">취미:⚽💻🛫</h3>
+</p>
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -24,9 +27,3 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
-<p align="center">
-  <h3 align="center>🏫 가천대학교 3학년(휴)</h3>
-</p>
-<p align="center">
-  <h3 align="center>취미:⚽💻🛫</h3>
-</p>
