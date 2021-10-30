@@ -8,10 +8,9 @@
   <h3 align="center>🏫 가천대학교 3학년(휴)</h3>
 </p>
 <p align="center">
-  <h3 align="center>취미⚽💻🛫</h3>
+  <h3 align="center>취미:⚽💻🛫</h3>
 </p>
 <br>
-
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
