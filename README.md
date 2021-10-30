@@ -1,6 +1,7 @@
-<p align="center">
-  <h3 align="center"><U> 코린이 탈출 프로젝트</U></h3>
-</p>
+<p align="center"><U>
+  <h3 align="center"> 코린이 탈출 프로젝트</h3>
+
+  </U></p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
