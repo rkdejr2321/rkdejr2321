@@ -1,6 +1,5 @@
-<h3 align="center"><b>Welcome</b></h3>
 <p align="center">
-  <h3 align="center"> 코린이 탈출 프로젝트 </h3>
+  <h3 align="center"> 코린이 탈출 프로젝트 <hr></h3>
 </p>
  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
