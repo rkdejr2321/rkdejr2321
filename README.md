@@ -12,9 +12,5 @@
 
 <h3 align="center"><b>📌SNS </b></h3>
 <p align="center">
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<img src="https://img.shields.io/badge/-Instargram-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 
