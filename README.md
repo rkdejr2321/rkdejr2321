@@ -4,6 +4,9 @@
 <p align="center">
   <h3 align="center">👨‍💻 서강덕 24세</h3>
 </p>
+<p align="center">
+  <h3 align="center">🏫 가천대학교 3학년(휴)</h3>
+</p>
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
