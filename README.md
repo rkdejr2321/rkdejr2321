@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <h3 align="center">취미:⚽💻🛫</h3>
-</p>
+</p><br>
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
