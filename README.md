@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center"> 코린이 탈출 프로젝트<br></h3>
+  <h2 align="center"> 🔥코린이 탈출 프로젝트🔥<br></h3>
 </p>
 <p align="center">
   <h3 align="center">👨‍💻 서강덕 24세</h3>
@@ -10,7 +10,6 @@
 <p align="center">
   <h3 align="center">취미:⚽💻🛫</h3>
 </p><br>
-
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
