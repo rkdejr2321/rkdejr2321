@@ -24,5 +24,5 @@
 
 <h3 align="center"><b>📌SNS </b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+<a href="https://www.instagram.com/river_duck_/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="https://rkdejr2321.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
