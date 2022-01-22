@@ -2,7 +2,7 @@
   <h2 align="center"> 🔥코린이 탈출 프로젝트🔥<br></h3>
 </p>
 <p align="center">
-  <h3 align="center">👨‍💻 서강덕 24세</h3>
+  <h3 align="center">👨‍💻 서강덕 25세</h3>
 </p>
 <p align="center">
   <h3 align="center">🏠 서울</h3>
