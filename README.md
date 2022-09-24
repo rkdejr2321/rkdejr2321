@@ -2,7 +2,6 @@
 <img align="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdejr2321" alt="Solved.ac 프로필">
   
   <h2> 🙋‍♂️Seo Kang Deok</h2>
-  
   <h3>🏫 Gachon.Univ</h3>
   <h3>💻 Back-End Developer</h3>
   
