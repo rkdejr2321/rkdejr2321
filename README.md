@@ -16,7 +16,7 @@
 <div align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdejr2321&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  <h2> 🛠Tech Stack🛠</h2>
+<h2> 🛠Tech Stack🛠</h2>
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,9 +24,11 @@
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
   ![AWS](https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
-
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
   <br>
  
