@@ -13,9 +13,6 @@
  
 </div>
 
-<div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdejr2321&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-</div>
 <h2 align="center"> 🛠Tech Stack🛠</h2>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
