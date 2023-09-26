@@ -7,7 +7,6 @@
   
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/river_duck_/)
   [![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://rkdejr2321.github.io/)
-  [![Notion Badge](https://img.shields.io/badge/-Notion-181717?style=for-the-badge&logo=notion&logoColor=white)](https://useful-insect-525.notion.site/9bfb41594b8a48efad1b87b8f693e729)
   
   <br>
  
