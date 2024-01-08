@@ -27,3 +27,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rkdejr2321&show_icons=true&theme=tokyonight"/>
 </div>
+
+<h2 align="center"> ⭐️Activity⭐️</h2>
+
+  * kakaoenterprise 교육전락파트 인턴 2024.1 ~
+  * kakaoenterprise SW Academy 2기
+  * 4차 산업혁명 연합 동아리 TAVE 9기
+  * 가천대학교 컴퓨터공학과 2017.3 ~ 2024.2
